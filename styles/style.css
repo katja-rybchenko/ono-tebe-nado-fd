@@ -37,6 +37,10 @@
     list-style-type: circle;
 }
 
+.header__links-list-item:first-child {
+    list-style-type: none;
+}
+
 
 .header__links-list-item:nth-child(1) {
     text-decoration: none;
